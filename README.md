@@ -1,4 +1,4 @@
-<h1>Sales Performance Dashboard 2017-2020</h1>
+<h1>Sales Performance Dashboard</h1>
 
 <h2>Description</h2>
 Project consists of a simple Power BI visualization about sales performances of a company.
